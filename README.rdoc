@@ -1,4 +1,9 @@
 == README
+Tutorial as part of ruby on rails. URL: http://docs.railsbridge.org/docs/
+
+
+Server copy on heroku at https://stormy-sea-39757.herokuapp.com/topics
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
